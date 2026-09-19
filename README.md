@@ -5,6 +5,8 @@ I am <b>Zaryab Haider</b>, a Computer Science student with area of emphasis in C
 <h2>Projects</h2>
 
 Hybrid Encryption CLI
+
+A command-line tool implementing hybrid encryption (RSA-2048 + AES-256-GCM), the same core pattern used in TLS/HTTPS with RSA-PSS digital signatures for authenticity. Built to understand real-world cryptographic design decisions beyond just calling a library. \n
 https://github.com/zaryabhaider123/Hybrid-encryption
 
 <h2>Homelab</h2>
@@ -16,6 +18,12 @@ My lab is a local virtualized environment for hands-on offensive security practi
 * Metasploitable 2 ( Target )
 
 Metasploitable 2 is a linux based virtual machine which consist of many vulnerabilities and open ports to practice real attacks.
+
+### Currently Building
+**SIEM Home Lab (Wazuh & Splunk)**
+
+* Setting up Wazuh and Splunk in my home lab to practice log analysis, alerting, and threat detection monitoring.
+
 
 <h2>CTF</h2>
 
