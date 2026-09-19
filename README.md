@@ -9,14 +9,16 @@ https://github.com/zaryabhaider123/Hybrid-encryption
 
 <h2>Homelab</h2>
 My lab is a local virtualized environment for hands-on offensive security practice. It consist of :-
-- Kali Linux ( Attacker )
-- Ubuntu ( SIEM )
-- Windows 10 ( Target )
-- Metasploitable 2 ( Target )
+
+* Kali Linux ( Attacker )
+* Ubuntu ( SIEM )
+* Windows 10 ( Target )
+* Metasploitable 2 ( Target )
 
 Metasploitable 2 is a linux based virtual machine which consist of many vulnerabilities and open ports to practice real attacks.
 
 <h2>CTF</h2>
+
 I practice on HackTheBox labs and PicoCTF.I also build tools and exciting projects using AI primarily with Claude code.
 
 This is my portfolio for the Red teaming and I'll publishing CTF documentation and projects here. 
