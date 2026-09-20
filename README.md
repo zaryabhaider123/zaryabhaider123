@@ -32,7 +32,19 @@ I practice on HackTheBox labs and PicoCTF.I also build tools and exciting projec
 This is my portfolio for the Red teaming and I'll publishing CTF documentation and projects here. 
 
 
+<h1 align="center">Hi 👋, I'm Zaryab Haider</h1>
+- 🔭 I’m currently working on **SIEM in my homelab**
 
+- 🌱 I’m currently learning **penetration testing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaryabhaider123&show_icons=true&locale=en&layout=compact" alt="zaryabhaider123" /></p>
 
 
 
